@@ -1,21 +1,17 @@
 <h1 align="center">Hi 👋, I'm Nish</h1>
-<h3 align="center">A passionate data engineer</h3>
+<h3 align="center">Data Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishtewari&label=Profile%20views&color=0e75b6&style=flat" alt="nishtewari" /> </p>
 
-- 🔭 I’m currently working on **Data Science Course**
+- 💻 I'm currently working on my Portfolio Website 
 
-- 🌱 I’m currently learning **Data Science/Data Engineering Tools**
+- 🏫 Vice President of Internal Affairs & Operations of <a href="https://lauriercs.ca/"><strong>Laurier Computing Society</strong></a></li>
 
-- 👯 I’m looking to collaborate on **Data Science Projects**
+- 🏆 Co-Founder and Head of Corporate Realtions of <a href="https://hawkhacks.ca/"><strong>HawkHacks</strong></a></li>
 
 - 📫 How to reach me **nishtew@gmail.com**
 
 - ⚡ Fun fact **Passionate Car Enthusiast**
-
-### Spotify Playing 
-[![Spotify](https://[USER_NAME.vercel.app](https://spotify-now-playing-lyart.vercel.app/)/api/spotify)](https://open.spotify.com/user/lhkv8g64xqoq7em5xhxrgyzu3)
-
 
 
 <h3 align="left">Connect with me:</h3>

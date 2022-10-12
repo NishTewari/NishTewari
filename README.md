@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nish</h1>
 <h3 align="center">Data Engineer</h3>
 
+![Matrix SVG](https://raw.githubusercontent.com/NishTewari/NishTewari/master/matrix.svg)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishtewari&label=Profile%20views&color=0e75b6&style=flat" alt="nishtewari" /> </p>
 
 - 💻 I'm currently working on my Portfolio Website 

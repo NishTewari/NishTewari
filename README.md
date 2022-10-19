@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nish</h1>
-<h3 align="center">Data Engineer</h3>
+<h3 align="center">Software Developer in Research & Development</h3>
 
 ![Matrix SVG](https://raw.githubusercontent.com/NishTewari/NishTewari/master/matrix.svg)
 

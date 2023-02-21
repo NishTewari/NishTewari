@@ -9,7 +9,7 @@
 
 - 🏫 Vice President of Internal Affairs & Operations of <a href="https://lauriercs.ca/"><strong>Laurier Computing Society</strong></a></li>
 
-- 🏆 Co-Founder and Head of Corporate Realtions of <a href="https://hawkhacks.ca/"><strong>HawkHacks</strong></a></li>
+- 🏆 Co-Founder and Head of Corporate Relations of <a href="https://hawkhacks.ca/"><strong>HawkHacks</strong></a></li>
 
 - 📫 How to reach me **nishtew@gmail.com**
 

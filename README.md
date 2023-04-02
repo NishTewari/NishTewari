@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Nish</h1>
-<h3 align="center">Software Developer in Research & Development</h3>
 
 ![Silvia GIF](https://raw.githubusercontent.com/NishTewari/NishTewari/master/Silvia.gif)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishtewari&label=Profile%20views&color=0e75b6&style=flat" alt="nishtewari" /> </p>
 
-- 💻 I'm currently working on my Portfolio Website 
+- 💻 I'm a Software Developer Intern @ OpenText
 
 - 🏫 Vice President of Internal Affairs & Operations of <a href="https://lauriercs.ca/"><strong>Laurier Computing Society</strong></a></li>
 

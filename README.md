@@ -6,9 +6,9 @@
 
 - 💻 I'm a Software Developer Intern @ <a href="https://www.opentext.com/"><strong>OpenText</strong></a></li>
 
-- 🏫 Vice President of Internal Affairs & Operations of <a href="https://lauriercs.ca/"><strong>Laurier Computing Society</strong></a></li>
+- 🏫 Vice President of Internal Affairs & Operations @ <a href="https://lauriercs.ca/"><strong>Laurier Computing Society</strong></a></li>
 
-- 🏆 Co-Founder & Head of Corporate Relations of <a href="https://hawkhacks.ca/"><strong>HawkHacks</strong></a></li>
+- 🏆 Co-Founder & Head of Corporate Relations @ <a href="https://hawkhacks.ca/"><strong>HawkHacks</strong></a></li>
 
 - 📫 How to reach me **nishtew@gmail.com**
 

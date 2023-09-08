@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishtewari&label=Profile%20views&color=0e75b6&style=flat" alt="nishtewari" /> </p>
 
-- 💻 I'm a Software Developer Intern @ <a href="https://www.opentext.com/"><strong>OpenText</strong></a></li>
+- 💻 I'm a Machine Learning Engineer Intern @ <a href="https://www.opentext.com/"><strong>OpenText</strong></a></li>
 
-- 🏫 Vice President of Internal Affairs & Operations @ <a href="https://lauriercs.ca/"><strong>Laurier Computing Society</strong></a></li>
+- 🏫 Vice President of Strategy @ <a href="https://lauriercs.ca/"><strong>Laurier Computing Society</strong></a></li>
 
-- 🏆 Co-Founder & Head of Corporate Relations @ <a href="https://hawkhacks.ca/"><strong>HawkHacks</strong></a></li>
+- 🏆 Co-Founder & VP of Operations & Internal Affairs @ <a href="https://hawkhacks.ca/"><strong>HawkHacks</strong></a></li>
 
 - 📫 How to reach me **nishtew@gmail.com**
 

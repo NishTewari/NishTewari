@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishtewari&label=Profile%20views&color=0e75b6&style=flat" alt="nishtewari" /> </p>
 
-- 💻 I'm a Machine Learning Engineer Intern @ <a href="https://www.opentext.com/"><strong>OpenText</strong></a></li>
+- 💻 I'm a Machine Learning Engineer @ <a href="https://www.opentext.com/"><strong>OpenText</strong></a></li>
 
 - 🏫 Vice President of Strategy @ <a href="https://lauriercs.ca/"><strong>Laurier Computing Society</strong></a></li>
 
